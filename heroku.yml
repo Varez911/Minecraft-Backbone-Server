@@ -1,5 +1,0 @@
-build:
-  docker:
-    web: Dockerfile
-run:
-  web: java -Xmx1G -Xms1G -jar server118.jar nogui
